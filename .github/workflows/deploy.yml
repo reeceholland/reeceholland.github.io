@@ -20,6 +20,12 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: ⬇️ Clone PaperMod theme
+        run: |
+          mkdir -p themes
+          git clone --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+
+
       - name: 🔨 Build the site
         run: hugo --minify
 
