@@ -32,6 +32,6 @@ jobs:
       - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: gh-pages
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          external_repository: reeceholland/reeceholland.github.io
+          publish_branch: main
