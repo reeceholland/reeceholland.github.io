@@ -2,3 +2,41 @@ baseURL: https://reeceholland.github.io/
 languageCode: en-us
 title: Reece Holland
 theme: PaperMod
+
+pagination.pagerSize: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 1
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 2
+
+params:
+
+  defaultTheme: auto
+
+  homeInfoParams:
+    Title: "Hi, I'm Reece 👋"
+    Content: "Welcome to my blog."
+  profileMode:
+    enabled: true
+    title: "Welcome to My Blog"
+    subtitle: "Exploring code, robotics, and ideas"
+    imageUrl: "/images/work_photo.png"     # relative to /static
+    imageTitle: "Banner Image"
+    imageWidth: 300                    # optional
+    imageHeight: 300  
