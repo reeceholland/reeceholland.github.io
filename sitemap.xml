@@ -2,11 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://reeceholland.github.io/tags/arduino/</loc>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://reeceholland.github.io/categories/</loc>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://reeceholland.github.io/categories/development-log/</loc>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://reeceholland.github.io/tags/lynxmotion/</loc>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://reeceholland.github.io/tags/motor-control/</loc>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
+  </url><url>
     <loc>https://reeceholland.github.io/posts/</loc>
-    <lastmod>2025-06-30T14:54:16+08:00</lastmod>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
   </url><url>
     <loc>https://reeceholland.github.io/</loc>
-    <lastmod>2025-06-30T14:54:16+08:00</lastmod>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://reeceholland.github.io/tags/robotics/</loc>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://reeceholland.github.io/posts/ros2-motor-control-progress/</loc>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://reeceholland.github.io/tags/ros2/</loc>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://reeceholland.github.io/tags/sabertooth/</loc>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://reeceholland.github.io/tags/</loc>
+    <lastmod>2025-07-17T06:20:21+08:00</lastmod>
   </url><url>
     <loc>https://reeceholland.github.io/posts/rugger-rover-introduction/</loc>
     <lastmod>2025-06-30T14:54:16+08:00</lastmod>
@@ -16,9 +46,5 @@
   </url><url>
     <loc>https://reeceholland.github.io/about/</loc>
     <lastmod>2025-06-28T07:56:04+08:00</lastmod>
-  </url><url>
-    <loc>https://reeceholland.github.io/categories/</loc>
-  </url><url>
-    <loc>https://reeceholland.github.io/tags/</loc>
   </url>
 </urlset>

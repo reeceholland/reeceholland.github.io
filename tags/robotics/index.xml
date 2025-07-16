@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Robotics on Reece Holland</title>
+    <link>https://reeceholland.github.io/tags/robotics/</link>
+    <description>Recent content in Robotics on Reece Holland</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jul 2025 06:20:21 +0800</lastBuildDate>
+    <atom:link href="https://reeceholland.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ROS 2 Motor Control Progress Log — Week in Review</title>
+      <link>https://reeceholland.github.io/posts/ros2-motor-control-progress/</link>
+      <pubDate>Thu, 17 Jul 2025 06:20:21 +0800</pubDate>
+      <guid>https://reeceholland.github.io/posts/ros2-motor-control-progress/</guid>
+      <description>From hardware setup to working ROS 2 integration, PID tuning, and automated testing — a full update on my rover’s motor control progress.</description>
+    </item>
+  </channel>
+</rss>
