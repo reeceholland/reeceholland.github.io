@@ -37,7 +37,8 @@ After unboxing and assembling the rover, I began planning how to turn it into a 
       <link>https://reeceholland.github.io/about/</link>
       <pubDate>Sat, 28 Jun 2025 07:56:04 +0800</pubDate>
       <guid>https://reeceholland.github.io/about/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+&lt;p&gt;Hey there! I’m a software engineer with a passion for robotics and a knack for seeing both the forest and the trees. I love diving into complex systems, not just to understand how all the pieces fit together, but also to explore the unexpected connections between them. Whether it’s motors, control loops, or middleware, I’m always trying to see how it all clicks — and more importantly, how to make it better.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
