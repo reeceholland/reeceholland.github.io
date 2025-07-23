@@ -6,8 +6,20 @@
     <description>Recent content on Reece Holland</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 06:20:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 05:52:43 +0800</lastBuildDate>
     <atom:link href="https://reeceholland.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hardware Interface</title>
+      <link>https://reeceholland.github.io/posts/hardware-interface/</link>
+      <pubDate>Thu, 24 Jul 2025 05:52:43 +0800</pubDate>
+      <guid>https://reeceholland.github.io/posts/hardware-interface/</guid>
+      <description>&lt;h1 id=&#34;developing-a-custom-ros-2-hardware-interface-for-the-rugged-rover&#34;&gt;Developing a Custom ROS 2 Hardware Interface for the Rugged Rover&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Over the past few weeks, I’ve been working on integrating a custom hardware interface for the rugged wheeled rover platform we&amp;rsquo;re building. This post highlights the development process of the ROS 2 hardware interface, the decision to upgrade to a Teensy 4.1 microcontroller, and the ongoing challenges with PID tuning.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;hardware-interface-with-ros2_control&#34;&gt;Hardware Interface with &lt;code&gt;ros2_control&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;The robot uses a differential drive setup controlled via a Sabertooth 2x12 motor driver. To interface this with ROS 2, I created a custom package: &lt;code&gt;rugged_rover_hardware_interfaces&lt;/code&gt;, following the &lt;code&gt;ros2_control&lt;/code&gt; system interface pattern.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ROS 2 Motor Control Progress Log — Week in Review</title>
       <link>https://reeceholland.github.io/posts/ros2-motor-control-progress/</link>
