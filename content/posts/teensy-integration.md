@@ -1,3 +1,10 @@
+---
+date: '2025-07-26T15:25:40+08:00'
+draft: false
+title: 'Teensy 4.1 and Micro-ros'
+---
+
+
 # Moving to micro-ROS with Teensy 4.1
 
 ## Why Switch?
