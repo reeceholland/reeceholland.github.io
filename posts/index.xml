@@ -6,8 +6,17 @@
     <description>Recent content in Posts on Reece Holland</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 05:52:43 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 05:14:38 +0800</lastBuildDate>
     <atom:link href="https://reeceholland.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teensy 4.1</title>
+      <link>https://reeceholland.github.io/posts/teensy-4.1/</link>
+      <pubDate>Sat, 26 Jul 2025 05:14:38 +0800</pubDate>
+      <guid>https://reeceholland.github.io/posts/teensy-4.1/</guid>
+      <description>&lt;h1 id=&#34;moving-to-micro-ros-with-teensy-41&#34;&gt;Moving to micro-ROS with Teensy 4.1&lt;/h1&gt;
+&lt;h2 id=&#34;why-switch&#34;&gt;Why Switch?&lt;/h2&gt;
+&lt;p&gt;After working with the Arduino Mega for the rover’s low-level control, I wanted something that could handle more direct ROS integration. The Teensy 4.1 brings more processing power and plenty of headroom for future features. With micro-ROS, the microcontroller is no longer just a “dumb” serial device—it becomes a true ROS 2 node, making everything from feedback to firmware updates much more seamless.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hardware Interface</title>
       <link>https://reeceholland.github.io/posts/hardware-interface/</link>
