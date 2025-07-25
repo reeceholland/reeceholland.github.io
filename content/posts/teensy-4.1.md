@@ -1,9 +1,8 @@
 ---
-date: '2025-07-26T15:25:40+08:00'
+date: '2025-07-26T05:14:38+08:00'
 draft: false
-title: 'Teensy 4.1 and Micro-ros'
+title: 'Teensy 4.1'
 ---
-
 
 # Moving to micro-ROS with Teensy 4.1
 
