@@ -4,7 +4,7 @@
     <title>Reece Holland</title>
     <link>https://reeceholland.github.io/</link>
     <description>Recent content on Reece Holland</description>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Jul 2025 05:14:38 +0800</lastBuildDate>
     <atom:link href="https://reeceholland.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -52,14 +52,6 @@ After unboxing and assembling the rover, I began planning how to turn it into a 
       <guid>https://reeceholland.github.io/posts/and-im-live/</guid>
       <description>&lt;p&gt;Well I have set up my Github Pages site where I plan to document my development of three Lynxmotion Rugger Wheeled Rovers.&lt;/p&gt;
 &lt;p&gt;More to come!!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://reeceholland.github.io/about/</link>
-      <pubDate>Sat, 28 Jun 2025 07:56:04 +0800</pubDate>
-      <guid>https://reeceholland.github.io/about/</guid>
-      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
-&lt;p&gt;Hey there! I’m a software engineer with a passion for robotics and a knack for seeing both the forest and the trees. I love diving into complex systems, not just to understand how all the pieces fit together, but also to explore the unexpected connections between them. Whether it’s motors, control loops, or middleware, I’m always trying to see how it all clicks — and more importantly, how to make it better.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
