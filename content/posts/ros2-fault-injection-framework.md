@@ -1,6 +1,6 @@
 ---
 title: 'Building a ROS 2 Fault Injection Framework'
-date: '2026-06-15T08:40:00+08:00'
+date: '2026-06-14T08:40:00+08:00'
 draft: false
 tags: ['ros2', 'robotics', 'fault-injection', 'testing', 'rviz', 'nav2']
 categories: ['Development Log']

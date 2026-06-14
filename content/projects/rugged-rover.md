@@ -1,6 +1,6 @@
 ---
 title: 'Rugged Rover'
-date: '2026-06-15T08:10:00+08:00'
+date: '2026-06-14T08:10:00+08:00'
 draft: false
 summary: 'A ROS 2 autonomous rover platform based on the Lynxmotion A4WD3, Raspberry Pi 5, Teensy 4.1, micro-ROS, SLAM Toolbox, Nav2, RPLIDAR S2, and Unity simulation.'
 tags: ['ros2', 'robotics', 'nav2', 'slam', 'micro-ros', 'embedded', 'unity']

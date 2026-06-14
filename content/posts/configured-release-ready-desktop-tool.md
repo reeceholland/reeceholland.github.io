@@ -1,6 +1,6 @@
 ---
 title: 'Taking CONFIGURED Toward a Release'
-date: '2026-06-15T08:50:00+08:00'
+date: '2026-06-14T08:50:00+08:00'
 draft: false
 tags: ['qt', 'cpp', 'robotics', 'configuration', 'desktop-app', 'release']
 categories: ['Development Log']

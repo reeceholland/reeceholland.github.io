@@ -1,6 +1,6 @@
 ---
 title: 'ROS 2 Fault Injection'
-date: '2026-06-15T08:15:00+08:00'
+date: '2026-06-14T08:15:00+08:00'
 draft: false
 summary: 'A ROS 2 fault injection framework for testing robot robustness with configurable odometry, laser scan, IMU, TF, service, and assertion scenarios.'
 tags: ['ros2', 'robotics', 'fault-injection', 'testing', 'rviz', 'nav2']
