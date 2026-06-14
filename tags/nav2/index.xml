@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nav2 on Reece Holland</title>
+    <link>https://reeceholland.github.io/tags/nav2/</link>
+    <description>Recent content in Nav2 on Reece Holland</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2026 08:40:00 +0800</lastBuildDate>
+    <atom:link href="https://reeceholland.github.io/tags/nav2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a ROS 2 Fault Injection Framework</title>
+      <link>https://reeceholland.github.io/posts/ros2-fault-injection-framework/</link>
+      <pubDate>Sun, 14 Jun 2026 08:40:00 +0800</pubDate>
+      <guid>https://reeceholland.github.io/posts/ros2-fault-injection-framework/</guid>
+      <description>A development update on ros2_fault_injection: typed injectors, YAML scenarios, runtime services, RViz controls, event publishing, and assertion-based fault testing.</description>
+    </item>
+    <item>
+      <title>Rugged Rover Update: Real SLAM, Nav2, and a Raspberry Pi 5</title>
+      <link>https://reeceholland.github.io/posts/rugged-rover-pi5-slam-nav2-update/</link>
+      <pubDate>Sun, 14 Jun 2026 08:30:00 +0800</pubDate>
+      <guid>https://reeceholland.github.io/posts/rugged-rover-pi5-slam-nav2-update/</guid>
+      <description>A progress update on the Rugged Rover: Teensy firmware, micro-ROS, RPLIDAR S2, Razor IMU, battery monitoring, SLAM Toolbox, Nav2, and the move to Raspberry Pi 5.</description>
+    </item>
+    <item>
+      <title>ROS 2 Fault Injection</title>
+      <link>https://reeceholland.github.io/projects/ros2-fault-injection/</link>
+      <pubDate>Sun, 14 Jun 2026 08:15:00 +0800</pubDate>
+      <guid>https://reeceholland.github.io/projects/ros2-fault-injection/</guid>
+      <description>A ROS 2 fault injection framework for testing robot robustness with configurable odometry, laser scan, IMU, TF, service, and assertion scenarios.</description>
+    </item>
+    <item>
+      <title>Rugged Rover</title>
+      <link>https://reeceholland.github.io/projects/rugged-rover/</link>
+      <pubDate>Sun, 14 Jun 2026 08:10:00 +0800</pubDate>
+      <guid>https://reeceholland.github.io/projects/rugged-rover/</guid>
+      <description>A ROS 2 autonomous rover platform based on the Lynxmotion A4WD3, Raspberry Pi 5, Teensy 4.1, micro-ROS, SLAM Toolbox, Nav2, RPLIDAR S2, and Unity simulation.</description>
+    </item>
+  </channel>
+</rss>

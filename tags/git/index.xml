@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Git on Reece Holland</title>
+    <link>https://reeceholland.github.io/tags/git/</link>
+    <description>Recent content in Git on Reece Holland</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2026 08:20:00 +0800</lastBuildDate>
+    <atom:link href="https://reeceholland.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CONFIGURED</title>
+      <link>https://reeceholland.github.io/projects/configured/</link>
+      <pubDate>Sun, 14 Jun 2026 08:20:00 +0800</pubDate>
+      <guid>https://reeceholland.github.io/projects/configured/</guid>
+      <description>A C++17 and Qt 6 desktop application for creating, validating, exporting, and Git-managing structured robotics configuration projects.</description>
+    </item>
+  </channel>
+</rss>

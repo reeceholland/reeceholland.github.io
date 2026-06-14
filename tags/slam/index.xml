@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Slam on Reece Holland</title>
+    <link>https://reeceholland.github.io/tags/slam/</link>
+    <description>Recent content in Slam on Reece Holland</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2026 08:30:00 +0800</lastBuildDate>
+    <atom:link href="https://reeceholland.github.io/tags/slam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rugged Rover Update: Real SLAM, Nav2, and a Raspberry Pi 5</title>
+      <link>https://reeceholland.github.io/posts/rugged-rover-pi5-slam-nav2-update/</link>
+      <pubDate>Sun, 14 Jun 2026 08:30:00 +0800</pubDate>
+      <guid>https://reeceholland.github.io/posts/rugged-rover-pi5-slam-nav2-update/</guid>
+      <description>A progress update on the Rugged Rover: Teensy firmware, micro-ROS, RPLIDAR S2, Razor IMU, battery monitoring, SLAM Toolbox, Nav2, and the move to Raspberry Pi 5.</description>
+    </item>
+    <item>
+      <title>Rugged Rover</title>
+      <link>https://reeceholland.github.io/projects/rugged-rover/</link>
+      <pubDate>Sun, 14 Jun 2026 08:10:00 +0800</pubDate>
+      <guid>https://reeceholland.github.io/projects/rugged-rover/</guid>
+      <description>A ROS 2 autonomous rover platform based on the Lynxmotion A4WD3, Raspberry Pi 5, Teensy 4.1, micro-ROS, SLAM Toolbox, Nav2, RPLIDAR S2, and Unity simulation.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Raspberry-Pi on Reece Holland</title>
+    <link>https://reeceholland.github.io/tags/raspberry-pi/</link>
+    <description>Recent content in Raspberry-Pi on Reece Holland</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2026 08:30:00 +0800</lastBuildDate>
+    <atom:link href="https://reeceholland.github.io/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rugged Rover Update: Real SLAM, Nav2, and a Raspberry Pi 5</title>
+      <link>https://reeceholland.github.io/posts/rugged-rover-pi5-slam-nav2-update/</link>
+      <pubDate>Sun, 14 Jun 2026 08:30:00 +0800</pubDate>
+      <guid>https://reeceholland.github.io/posts/rugged-rover-pi5-slam-nav2-update/</guid>
+      <description>A progress update on the Rugged Rover: Teensy firmware, micro-ROS, RPLIDAR S2, Razor IMU, battery monitoring, SLAM Toolbox, Nav2, and the move to Raspberry Pi 5.</description>
+    </item>
+  </channel>
+</rss>

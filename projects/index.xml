@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Reece Holland</title>
+    <link>https://reeceholland.github.io/projects/</link>
+    <description>Recent content in Projects on Reece Holland</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2026 08:20:00 +0800</lastBuildDate>
+    <atom:link href="https://reeceholland.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CONFIGURED</title>
+      <link>https://reeceholland.github.io/projects/configured/</link>
+      <pubDate>Sun, 14 Jun 2026 08:20:00 +0800</pubDate>
+      <guid>https://reeceholland.github.io/projects/configured/</guid>
+      <description>A C++17 and Qt 6 desktop application for creating, validating, exporting, and Git-managing structured robotics configuration projects.</description>
+    </item>
+    <item>
+      <title>ROS 2 Fault Injection</title>
+      <link>https://reeceholland.github.io/projects/ros2-fault-injection/</link>
+      <pubDate>Sun, 14 Jun 2026 08:15:00 +0800</pubDate>
+      <guid>https://reeceholland.github.io/projects/ros2-fault-injection/</guid>
+      <description>A ROS 2 fault injection framework for testing robot robustness with configurable odometry, laser scan, IMU, TF, service, and assertion scenarios.</description>
+    </item>
+    <item>
+      <title>Rugged Rover</title>
+      <link>https://reeceholland.github.io/projects/rugged-rover/</link>
+      <pubDate>Sun, 14 Jun 2026 08:10:00 +0800</pubDate>
+      <guid>https://reeceholland.github.io/projects/rugged-rover/</guid>
+      <description>A ROS 2 autonomous rover platform based on the Lynxmotion A4WD3, Raspberry Pi 5, Teensy 4.1, micro-ROS, SLAM Toolbox, Nav2, RPLIDAR S2, and Unity simulation.</description>
+    </item>
+  </channel>
+</rss>
