@@ -1,6 +1,6 @@
 ---
 title: 'Rugged Rover Update: Real SLAM, Nav2, and a Raspberry Pi 5'
-date: '2026-06-15T20:15:00+08:00'
+date: '2026-06-15T08:30:00+08:00'
 draft: false
 tags: ['ros2', 'robotics', 'nav2', 'slam', 'raspberry-pi', 'micro-ros']
 categories: ['Development Log']

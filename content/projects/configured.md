@@ -1,6 +1,6 @@
 ---
 title: 'CONFIGURED'
-date: '2026-06-15T22:00:00+08:00'
+date: '2026-06-15T08:20:00+08:00'
 draft: false
 summary: 'A C++17 and Qt 6 desktop application for creating, validating, exporting, and Git-managing structured robotics configuration projects.'
 tags: ['qt', 'cpp', 'robotics', 'configuration', 'git', 'desktop-app']
