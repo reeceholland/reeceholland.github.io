@@ -1,37 +1,39 @@
-name: Deploy Hugo site to GitHub PagesAdd commentMore actions
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
     branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          submodules: true  # Pulls in PaperMod theme
+          submodules: true
 
-      - name: 🧱 Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: latest
           extended: true
 
-      - name: ⬇️ Clone PaperMod theme
+      - name: Clone PaperMod theme
         run: |
           mkdir -p themes
           git clone --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
 
-
-      - name: 🔨 Build the site
+      - name: Build the site
         run: hugo --minify
 
-      - name: 🚀 Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: reeceholland/reeceholland.github.io
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
           publish_branch: gh-pages
