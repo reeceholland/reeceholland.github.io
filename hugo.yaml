@@ -21,10 +21,15 @@ menu:
       url: /about/
       weight: 1
 
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 2
+
     - identifier: blog
       name: Blog
       url: /posts/
-      weight: 2
+      weight: 3
 
 
 
@@ -37,8 +42,8 @@ params:
     Content: "Welcome to my blog."
   profileMode:
     enabled: true
-    title: "Welcome to My Blog"
-    subtitle: "Exploring code, robotics, and ideas"
+    title: "Reece Holland"
+    subtitle: "Building ROS 2 robots, embedded firmware, and autonomy systems"
     imageUrl: "/images/work_photo.png"     # relative to /static
     imageTitle: "Banner Image"
     imageWidth: 300                    # optional
